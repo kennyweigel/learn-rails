@@ -51,7 +51,7 @@ gem 'jbuilder', '~> 1.2'
 
 ##### LEARN RAILS #####
 gem 'activerecord-tableless'
-gem 'compass-rails', '1.1.2'
+#gem 'compass-rails', '1.1.6'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
